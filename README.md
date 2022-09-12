@@ -1,2 +1,4 @@
-# Evidencia-Computación-en-Java
-Evidencia de computación en java
+# Evidencia
+# Uso del programa
+# Créditos
+# Licencia
